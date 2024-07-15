@@ -65,7 +65,7 @@
     "lodash-es": "^4.17.21",
     "ndarray": "~1.0.0",
     "onnxruntime-web": "~1.18.0",
-    "zod": "^3.23.8"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "assert": "~2.0.0",
